@@ -1,0 +1,14 @@
+[
+  {
+    "src": "images/maple.jpg",
+    "species": "Acer rubrum"
+  },
+  {
+    "src": "images/oak.jpg",
+    "species": "Quercus alba"
+  },
+  {
+    "src": "images/pine.jpg",
+    "species": "Pinus strobus"
+  }
+]
